@@ -30,4 +30,4 @@ promotional strategy rather than removal
 *(Add screenshot here)*
 
 ## SQL Queries
-All queries are available in the `queries.sql` file in this repository.
+All queries are available in the `pizza_sales.sql` file in this repository.
