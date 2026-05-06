@@ -27,7 +27,7 @@ interactive dashboard to support decision-making.
 promotional strategy rather than removal
 
 ## Dashboard Preview
-*(Add screenshot here)*
+![Dashboard](dashboard.png)
 
 ## SQL Queries
 All queries are available in the `pizza_sales.sql` file in this repository.
